@@ -1,0 +1,1 @@
+HardwareCheck .net core
