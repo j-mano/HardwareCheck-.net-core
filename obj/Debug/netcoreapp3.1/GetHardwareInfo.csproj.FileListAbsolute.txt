@@ -1,0 +1,9 @@
+C:\Users\Joachim\source\repos\GetHardwareInfo\obj\Debug\netcoreapp3.1\GetHardwareInfo.csproj.AssemblyReference.cache
+C:\Users\Joachim\source\repos\GetHardwareInfo\obj\Debug\netcoreapp3.1\GetHardwareInfo.AssemblyInfoInputs.cache
+C:\Users\Joachim\source\repos\GetHardwareInfo\obj\Debug\netcoreapp3.1\GetHardwareInfo.AssemblyInfo.cs
+C:\Users\Joachim\source\repos\GetHardwareInfo\obj\Debug\netcoreapp3.1\GetHardwareInfo.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\source\repos\GetHardwareInfo\bin\Debug\netcoreapp3.1\GetHardwareInfo.deps.json
+C:\Users\Joachim\source\repos\GetHardwareInfo\bin\Debug\netcoreapp3.1\GetHardwareInfo.dll
+C:\Users\Joachim\source\repos\GetHardwareInfo\bin\Debug\netcoreapp3.1\GetHardwareInfo.pdb
+C:\Users\Joachim\source\repos\GetHardwareInfo\obj\Debug\netcoreapp3.1\GetHardwareInfo.dll
+C:\Users\Joachim\source\repos\GetHardwareInfo\obj\Debug\netcoreapp3.1\GetHardwareInfo.pdb
